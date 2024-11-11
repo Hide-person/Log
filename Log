@@ -1,1 +1,15 @@
-log
+[
+  {
+    "status": "update",
+    "view 1": "0",
+    "view 2": "0",
+    "view 3": "0",
+    "view 4": "0",
+    "view 5": "0",
+    "view 6": "0",
+    "text update": "بروزرسانی",
+    "text about": "نسخه‌ جدیدی از برنامه در دسترس است!\nلطفا برنامه را بروزرسانی کنید.",
+    "text button": "بروزرسانی",
+    "link update": "https://myket.ir/app/com.DreamKit.Telina"
+  }
+]
