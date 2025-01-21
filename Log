@@ -1,12 +1,10 @@
 [
   {
     "status": "error",
-    "view 1": "0",
-    "view 2": "0",
+    "view top": "https://github.com/Hide-person/View-Top/raw/refs/heads/main/View%20Top",
+    "view 1": "https://github.com/Hide-person/Main_menu/raw/refs/heads/main/DL24",
+    "view 2": "https://github.com/Hide-person/Main_menu/raw/refs/heads/main/DL19",
     "view 3": "0",
-    "view 4": "0",
-    "view 5": "0",
-    "view 6": "0",
     "text update": "بروزرسانی",
     "text about": "نسخه‌ جدیدی از برنامه در دسترس است!\nلطفا برنامه را بروزرسانی کنید.",
     "text button": "بروزرسانی",
