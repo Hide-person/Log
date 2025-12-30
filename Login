@@ -1,1 +1,12 @@
-
+[
+  {
+    "LastAppVersion": "",
+    "view top": "",
+    "view 1": "",
+    "view 2": "",
+    "text update": "",
+    "text about": "",
+    "text button": "",
+    "link update": ""
+  }
+]
