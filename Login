@@ -1,12 +1,1 @@
-[
-  {
-    "LastAppVersion": "7.2",
-    "view top": "https://github.com/Hide-person/View-Top/raw/refs/heads/main/View Top",
-    "view 1": "https://github.com/Hide-person/Main_menu/raw/refs/heads/main/DL24",
-    "view 2": "https://github.com/Hide-person/Main_menu/raw/refs/heads/main/DL19",
-    "text update": "بروزرسانی",
-    "text about": "نسخه‌ جدیدی از برنامه در دسترس است!\\nلطفا برنامه را بروزرسانی کنید.",
-    "text button": "بروزرسانی",
-    "link update": "https://myket.ir/app/com.DreamKit.Telina"
-  }
-]
+
