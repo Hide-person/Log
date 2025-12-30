@@ -1,6 +1,6 @@
 [
   {
-    "LastAppVersion": "",
+    "LastAppVersion": "7.2",
     "view top": "",
     "view 1": "",
     "view 2": "",
