@@ -1,7 +1,7 @@
 [
   {
     "LastAppVersion": "7.2",
-    "view top": "",
+    "view top": "https://github.com/Hide-person/View-Top/raw/refs/heads/main/View%20Top",
     "view 1": "",
     "view 2": "",
     "text update": "",
